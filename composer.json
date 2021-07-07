@@ -6,5 +6,10 @@
             "email": "sajjaddarre76@gmail.com"
         }
     ],
+    "autoload": {
+        "psr_4": {
+            "sajjaddarre\\phpmvc": "."
+        }
+    },
     "require": {}
 }

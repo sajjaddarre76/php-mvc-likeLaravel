@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\form;
+namespace sajjaddarre\phpmvc\form;
 
 
-use app\core\Model;
+use sajjaddarre\phpmvc\Model;
 
 class Form
 {

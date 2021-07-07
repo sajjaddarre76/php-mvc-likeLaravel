@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core;
+namespace sajjaddarre\phpmvc;
 
 
-use app\core\middlewares\BaseMiddleware;
+use sajjaddarre\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {

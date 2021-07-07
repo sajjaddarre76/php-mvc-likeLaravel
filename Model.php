@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core;
+namespace sajjaddarre\phpmvc;
 
 
 use JetBrains\PhpStorm\Pure;

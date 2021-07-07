@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace sajjaddarre\phpmvc;
 
-use app\core\exception\NotFoundException;
+use sajjaddarre\phpmvc\exception\NotFoundException;
 
 class Router
 {

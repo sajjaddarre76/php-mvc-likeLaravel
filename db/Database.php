@@ -1,11 +1,11 @@
 <?php
 
 
-namespace app\core\db;
+namespace sajjaddarre\phpmvc\db;
 
 
-use app\core\Application;
-use app\core\Model;
+use sajjaddarre\phpmvc\Application;
+use sajjaddarre\phpmvc\Model;
 
 class Database
 {
