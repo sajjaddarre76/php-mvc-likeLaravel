@@ -8,7 +8,7 @@
     ],
     "autoload": {
         "psr_4": {
-            "sajjaddarre\\phpmvc": "."
+            "sajjaddarre\\phpmvc\\": "."
         }
     },
     "require": {}
